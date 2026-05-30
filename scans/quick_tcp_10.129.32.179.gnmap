@@ -1,0 +1,4 @@
+# Nmap 7.99 scan initiated Sat May 30 07:56:35 2026 as: /usr/lib/nmap/nmap --privileged -sS -sV -sC -O -T4 --reason --top-ports 1000 -oA scans/quick_tcp_10.129.32.179 10.129.32.179
+Host: 10.129.32.179 ()	Status: Up
+Host: 10.129.32.179 ()	Ports: 21/open/tcp//ftp//vsftpd 3.0.3/, 80/open/tcp//http//Apache httpd 2.4.41 ((Ubuntu))/	Ignored State: closed (998)	OS: Linux 4.15 - 5.19|MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)	Seq Index: 262	IP ID Seq: All zeros
+# Nmap done at Sat May 30 07:57:23 2026 -- 1 IP address (1 host up) scanned in 48.37 seconds
